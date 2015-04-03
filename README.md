@@ -1,2 +1,2 @@
 # rickBDA
-Rick's repo for Big Data Analysis
+Rick's repo for Big Data Analytics
